@@ -1,10 +1,10 @@
 # Hi 👋, I'm Aman Singh
 
-![Intro](./assets/hero.svg?v=2)
-![About](./assets/about-life.svg?v=2)
-![Stack](./assets/stack.svg?v=2)
-![ID](./assets/id-dashboard.svg?v=2)
-![Connect](./assets/connect.svg?v=2)
+![Intro](./assets/hero.svg?v=3)
+![About](./assets/about-life.svg?v=3)
+![Stack](./assets/stack.svg?v=3)
+![ID](./assets/id-dashboard.svg?v=3)
+![Connect](./assets/connect.svg?v=3)
 
 > B.Tech CSE @ Sitare University (Dean's List, GPA 8.36) -- Aspiring Software Developer. Full-Stack Developer • DSA Problem Solver • Data & ML Explorer.
 
@@ -21,7 +21,7 @@
 ## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/aman-singh-2a6033233/
-- Email: su-24010@sitare.org
+- Email: amansinghjnvmzp@gmail.com
 - GitHub: https://github.com/amansingh1207
 
 ## 📊 Verified snapshot (06 Oct 2026, via `gh api`)

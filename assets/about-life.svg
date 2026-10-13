@@ -35,5 +35,4 @@
 <rect x="848" y="260" width="160" height="8" rx="4" fill="#1d2a4d"/><rect x="848" y="260" width="0" height="8" rx="4" fill="#247bff"><animate attributeName="width" values="0;0;0;160;160;0" keyTimes="0;.3;.33;.63;.66;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect>
 <rect x="1024" y="260" width="152" height="8" rx="4" fill="#1d2a4d"/><rect x="1024" y="260" width="0" height="8" rx="4" fill="#ff354f"><animate attributeName="width" values="0;0;0;0;0;152" keyTimes="0;.3;.33;.63;.66;1" dur="12s" begin="0s" repeatCount="indefinite"/></rect>
 </g>
-<text x="672" y="320" font-size="20" fill="#93a1bd">Base state shows slide 1 if animation is off.</text>
 </g></g></svg>
