@@ -1,10 +1,10 @@
 # Hi 👋, I'm Aman Singh
 
-![Intro](./assets/hero.svg?v=1)
-![About](./assets/about-life.svg?v=1)
-![Stack](./assets/stack.svg?v=1)
-![ID](./assets/id-dashboard.svg?v=1)
-![Connect](./assets/connect.svg?v=1)
+![Intro](./assets/hero.svg?v=2)
+![About](./assets/about-life.svg?v=2)
+![Stack](./assets/stack.svg?v=2)
+![ID](./assets/id-dashboard.svg?v=2)
+![Connect](./assets/connect.svg?v=2)
 
 > B.Tech CSE @ Sitare University (Dean's List, GPA 8.36) -- Aspiring Software Developer. Full-Stack Developer • DSA Problem Solver • Data & ML Explorer.
 
@@ -30,4 +30,4 @@
 - Prior profile: Full Stack Developer | Data Enthusiast | DSA Solver; stack Python/Java/C/JS, HTML/CSS/Bootstrap/Tailwind, Node/Express/Flask, MongoDB/MySQL, Pandas/NumPy/Matplotlib/scikit-learn.
 
 ---
-*Design: deep navy `#070b16`, electric blue `#247bff`, crimson `#ff354f`. All SVGs are self-contained (inline avatar + embedded fonts, no network requests, CSS+SMIL only, reduced-motion respected). Display font: Archivo Black (OFL) + Mono: JetBrains Mono (OFL) — licenses in `assets/fonts/OFL-*.txt`. Placeholder avatar is your current GitHub avatar — replace with `id.png` / `right_pointing.png` when you share your photo as a file (see below).*
+*Design: deep navy `#070b16`, electric blue `#247bff`, crimson `#ff354f`. All SVGs are self-contained (inline portraits + embedded fonts, no network requests, CSS+SMIL only, reduced-motion respected). Display font: Archivo Black (OFL) + Mono: JetBrains Mono (OFL) — licenses in `assets/fonts/OFL-*.txt`. Portraits: `assets/id.png` (background-removed photo cutout, genuine alpha) + `assets/right_pointing.png` (same cutout, composed left with room on the right). Note: these are photo cutouts, not re-illustrated portraits, and no pointing pose was synthesized — arrows in `connect.svg` provide the direction cue.*
