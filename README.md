@@ -6,13 +6,13 @@
 ![ID](./assets/id-dashboard.svg?v=1)
 ![Connect](./assets/connect.svg?v=1)
 
-> B.Tech CSE @ Sitare University (Dean's List, GPA 8.36) — Full-Stack Developer • DSA Problem Solver • Data & ML Explorer.
+> B.Tech CSE @ Sitare University (Dean's List, GPA 8.36) -- Aspiring Software Developer. Full-Stack Developer • DSA Problem Solver • Data & ML Explorer.
 
 ## 🚀 Featured Projects
 
 | Project | What it is | Links |
 |---|---|---|
-| **CodingJudge — Sitare_Coding_Platform** | Post-contest online judge for students: problem library, Java/C++/Python editor, sandboxed run vs sample tests, submit vs hidden tests, verdicts (AC/WA/CE/RE/TLE/MLE), submission history. React + Spring Boot + PostgreSQL. Updated 2026-10-05. | [Repo](https://github.com/amansingh1207/Sitare_Coding_Platform) |
+| **CodingJudge — Sitare_Coding_Platform** | Post-contest online judge for students: problem library, Java/C++/Python editor, sandboxed run vs sample tests, submit vs hidden tests, verdicts (AC/WA/CE/RE/TLE/MLE), submission history. React + Spring Boot + PostgreSQL. Updated 2026-10-05. | [Repo](https://github.com/amansingh1207/Sitare_Coding_Platform) · [Live](https://codingjudge-frontend.onrender.com/) |
 | **BLOOP Interpreter** | Beginner-Level Object-Oriented Program: mini scripting language in pure Java. `put … into`, `print`, `if … then`, `repeat N times`. Lexer → AST → evaluator. Sitare University OOP project. | [Repo](https://github.com/amansingh1207/BLOOP_Interpreter) |
 | **YouTube Comments Sentiment Analyser** | Fetches up to 1,200 comments (100/mo × 12 mo) via YouTube Data API v3, VADER sentiment (Pos/Neu/Neg), trend + volume + doughnut charts, top comments, word cloud, CSV export. Flask + Bootstrap + Chart.js. | [Repo](https://github.com/amansingh1207/Youtube-Comment-Analyser-1) · [Live](https://youtube-comment-analyser-1.onrender.com) |
 | **LINKEDIN_PROJECT — Network Analysis** | LinkedIn-style student graph: CSV/Excel → adjacency list, degree distribution, random-walk paths with cycle pruning, reachability stats, histograms. Python. | [Repo](https://github.com/amansingh1207/LINKEDIN_PROJECT) |
